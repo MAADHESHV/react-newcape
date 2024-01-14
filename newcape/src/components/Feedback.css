@@ -1,0 +1,57 @@
+.body1{
+    display:flex;
+    justify-content:center;
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Thiruvalluvar_Statue_At_Kanyakumari_%28197523127%29.jpeg/1200px-Thiruvalluvar_Statue_At_Kanyakumari_%28197523127%29.jpeg");
+
+}
+.form1{
+    width:40%;
+    float:right;
+    margin-left:30%;
+   
+   
+}
+/* img{
+    float: right;
+    margin-right: 10%;
+    height:400px;
+} */
+::placeholder {
+    color: black;
+  }
+.form{
+    width:50%;
+    width:150px;
+    padding:6px;
+ 
+  
+    margin-left:30%;
+    margin-right:19%;
+
+
+}
+input,textarea{
+    width:100%;
+    padding:6px;
+    outline:none;
+    border:none;
+    margin-bottom: 2px;
+    margin:6px 0px;
+    background-color:rgb(176, 210, 234);
+    border-radius: 0cm;
+
+   
+
+}
+/* hover:input{
+    background-color: blue;
+} */
+.submit1{
+    width:150px;
+    padding:6px;
+    cursor:pointer;
+    background-color:#333333;
+    color:white;
+    border-radius: 1cm;
+
+}

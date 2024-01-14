@@ -1,0 +1,37 @@
+.submit1{
+    width:150px;
+    padding:6px;
+    cursor:pointer;
+    background-color:#333333;
+    color:white;
+    border-radius: 1cm;
+
+}
+input{
+   
+    padding:6px;
+    outline:none;
+    border:none;
+    margin-bottom: 2px;
+    /* margin:6px 0px; */
+    background-color:rgb(176, 210, 234);
+    border-radius: 0cm;
+display: flex;
+flex-wrap: wrap;
+
+   
+
+}
+select,option{
+   
+    padding:6px;
+    outline:none;
+    border:none;
+    margin-bottom: 2px;
+    margin:6px 0px;
+    background-color:rgb(176, 210, 234);
+    border-radius: 0cm;
+
+   
+
+}
